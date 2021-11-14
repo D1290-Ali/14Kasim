@@ -1,0 +1,4 @@
+1. bunu dosyaya direkt notepad ile yazdım.
+2. bunu nano ile yazdım.
+3. bunu da vimm ile yazdı
+4. bunu echo ile yazdım
